@@ -9,7 +9,9 @@ int main(void){
 	area = length * width;
 	
 
-	printf("The area of a rectangle w/ length = %d and width = %d is %d.", length, width, area);
+	printf("The area of a rectangle w/ length = %d and width = %d is %d. \n", length, width, area);
 
 }
+
+
 
